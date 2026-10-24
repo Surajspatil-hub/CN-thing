@@ -1,0 +1,10 @@
+{"timestamp": "2026-10-24T15:11:57.352798+00:00", "event": "tcp_probe", "scenario": "controlled_scan", "destination": "10.0.0.2", "port": 5000, "result": "open"}
+{"timestamp": "2026-10-24T15:11:57.554060+00:00", "event": "tcp_probe", "scenario": "controlled_scan", "destination": "10.0.0.2", "port": 5001, "result": "closed_or_filtered"}
+{"timestamp": "2026-10-24T15:11:57.755061+00:00", "event": "tcp_probe", "scenario": "controlled_scan", "destination": "10.0.0.2", "port": 5002, "result": "closed_or_filtered"}
+{"timestamp": "2026-10-24T15:11:57.956136+00:00", "event": "tcp_probe", "scenario": "controlled_scan", "destination": "10.0.0.2", "port": 5003, "result": "closed_or_filtered"}
+{"timestamp": "2026-10-24T15:11:58.156816+00:00", "event": "tcp_probe", "scenario": "controlled_scan", "destination": "10.0.0.2", "port": 5004, "result": "closed_or_filtered"}
+{"timestamp": "2026-10-24T15:11:58.357995+00:00", "event": "tcp_probe", "scenario": "controlled_scan", "destination": "10.0.0.2", "port": 5005, "result": "closed_or_filtered"}
+{"timestamp": "2026-10-24T15:11:58.559266+00:00", "event": "tcp_probe", "scenario": "controlled_scan", "destination": "10.0.0.2", "port": 5006, "result": "closed_or_filtered"}
+{"timestamp": "2026-10-24T15:11:58.760474+00:00", "event": "tcp_probe", "scenario": "controlled_scan", "destination": "10.0.0.2", "port": 5007, "result": "closed_or_filtered"}
+{"timestamp": "2026-10-24T15:11:58.961723+00:00", "event": "tcp_probe", "scenario": "controlled_scan", "destination": "10.0.0.2", "port": 5008, "result": "closed_or_filtered"}
+{"timestamp": "2026-10-24T15:11:59.162736+00:00", "event": "tcp_probe", "scenario": "controlled_scan", "destination": "10.0.0.2", "port": 5009, "result": "closed_or_filtered"}
